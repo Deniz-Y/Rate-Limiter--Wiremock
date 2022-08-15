@@ -1,0 +1,12 @@
+{
+    "id" : "e2a6cc05-7f44-403f-9c0a-63e935ecfa48",
+    "name" : "get",
+    "request" : {
+      "url" : "/get",
+      "method" : "GET"
+    },
+    "response" : {
+      "status" : 200,
+      "body": "Hello from get!"
+    }
+  }

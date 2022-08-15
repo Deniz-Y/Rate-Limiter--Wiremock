@@ -1,0 +1,12 @@
+{
+    "id" : "53fba64f-45d9-4044-9f65-6712ffd75cb3",
+    "name" : "post",
+    "request" : {
+      "url" : "/post",
+      "method" : "POST"
+    },
+    "response" : {
+      "status" : 200,
+      "body": "Hello from post!"
+    }
+  }
